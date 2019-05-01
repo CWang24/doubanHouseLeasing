@@ -1,7 +1,7 @@
 # doubanHouseLeasing
 
-It's basically a crawler script, that helps sift out noise informations from massive duplication of posting by either agents or sub-leaser.
-Run this python script, one webpage will be generated for each xiaoqu you put, which contains all posting of house leasing in last certain days. The script is rough yet useful. I ran it once per day each night. It saved time, and make thing organized.
+It's basically a crawler script that helps sift out noise information from massive duplications of posting by either agent or sub-leaser.
+Run this python script, one webpage will be generated for each community you input, which contains all posting of house leasing in the last certain days. The script is rough yet useful. I ran it once per day each night, and well organized lists were presented.
 
 ## Brief Tutorial:
 
